@@ -8,7 +8,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 ### Chrome
 
-1. Download the extension as [ZIP file from GitHub](https://github.com/arsyakaukabi/bypass-paywall-kompas/archive/refs/heads/main.zip).
+1. Download the extension as a [ZIP file from GitHub](https://github.com/arsyakaukabi/bypass-paywall-kompas/archive/refs/heads/main.zip).
 
 2. Extract the downloaded ZIP file to a folder on your computer.
 
@@ -22,7 +22,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 ### Mozilla Firefox
 
-1. Download the extension as [ZIP file from GitHub](https://github.com/arsyakaukabi/bypass-paywall-kompas/archive/refs/heads/main.zip).
+1. Download the extension as a [ZIP file from GitHub](https://github.com/arsyakaukabi/bypass-paywall-kompas/archive/refs/heads/main.zip).
 
 2. Extract the downloaded ZIP file to a folder on your computer.
 
