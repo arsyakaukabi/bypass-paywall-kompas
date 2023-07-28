@@ -12,7 +12,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 2. Extract the downloaded ZIP file to a folder on your computer.
 
-3. Open Chrome and go to `chromeextensions` in the address bar.
+3. Open Chrome and go to `chrome://extensions` in the address bar.
 
 4. Turn on the Developer mode switch in the top right corner.
 
@@ -26,7 +26,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 2. Extract the downloaded ZIP file to a folder on your computer.
 
-3. Go to Firefox Browser and enter `aboutdebugging` in the address bar.
+3. Go to Firefox Browser and enter `about:debugging` in the address bar.
 
 4. Click on This Firefox on the left sidebar.
 
