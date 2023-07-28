@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Paywall Remover",
+  "version": "1.0",
+  "description": "Remove paywalls on kompas.id",
+  "permissions": ["tabs","activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.kompas.id/*"],
+      "js": ["content_script.js"]
+    }
+  ]
+}
