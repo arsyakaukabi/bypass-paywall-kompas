@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Paywall Remover",
+  "name": "Bypass Paywall Kompas",
   "version": "1.0",
   "description": "Remove paywalls on kompas.id",
   "permissions": ["tabs","activeTab"],

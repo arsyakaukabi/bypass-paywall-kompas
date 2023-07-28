@@ -1,8 +1,8 @@
-# Paywall Remover Extension
+# Bypass Paywall Kompas Extension
 
 ## Description
 
-Paywall Remover is a browser extension that allows you to remove paywalls on kompas.id, enabling you to access premium content for free.
+Bypass Paywall Kompas is a browser extension that allows you to remove paywalls on kompas.id, enabling you to access premium content for free.
 
 ## How to Install
 
@@ -18,7 +18,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 5. Click on Load unpacked and select the folder where you extracted the extension files.
 
-6. The Paywall Remover extension will now be added to Chrome, and you can use it on kompas.id to remove paywalls.
+6. The Bypass Paywall Kompas extension will now be added to Chrome, and you can use it on kompas.id to remove paywalls.
 
 ### Mozilla Firefox
 
@@ -32,7 +32,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 5. Click Load Temporary Add-on and select any file from the folder where you extracted the extension files.
 
-6. The Paywall Remover extension will now be temporarily loaded in Firefox, and you can use it on kompas.id to remove paywalls.
+6. The Bypass Paywall Kompas extension will now be temporarily loaded in Firefox, and you can use it on kompas.id to remove paywalls.
 
 ## Usage
 
@@ -42,7 +42,7 @@ Paywall Remover is a browser extension that allows you to remove paywalls on kom
 
 ## Contribution
 
-Contributions to the Paywall Remover extension are welcome! If you find any issues or want to improve the extension, feel free to create a pull request or open an issue.
+Contributions to the Bypass Paywall Kompas extension are welcome! If you find any issues or want to improve the extension, feel free to create a pull request or open an issue.
 
 ## License
 

@@ -12,10 +12,8 @@ function updateSectionClass() {
   }
 }
 
-function applyScript() {
+document.addEventListener('DOMContentLoaded', () => {
   const paywall = document.querySelector("kompas-paywall");
   removeDOMElement(paywall);
   updateSectionClass();
-}
-
-applyScript();
+});
