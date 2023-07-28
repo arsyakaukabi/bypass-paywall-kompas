@@ -2,7 +2,8 @@
 
 ## Description
 
-Bypass Paywall Kompas is a browser extension that allows you to remove paywalls on kompas.id, enabling you to access premium content for free.
+Bypass Paywall Kompas is a browser extension that allows you to remove paywalls on [kompas.id](https://www.kompas.id/)
+, enabling you to access premium content for free.
 
 ## How to Install
 
@@ -18,7 +19,8 @@ Bypass Paywall Kompas is a browser extension that allows you to remove paywalls 
 
 5. Click on Load unpacked and select the folder where you extracted the extension files.
 
-6. The Bypass Paywall Kompas extension will now be added to Chrome, and you can use it on kompas.id to remove paywalls.
+6. The Bypass Paywall Kompas extension will now be added to Chrome, and you can use it on [kompas.id](https://www.kompas.id/)
+ to remove paywalls.
 
 ### Mozilla Firefox
 
@@ -32,13 +34,16 @@ Bypass Paywall Kompas is a browser extension that allows you to remove paywalls 
 
 5. Click Load Temporary Add-on and select any file from the folder where you extracted the extension files.
 
-6. The Bypass Paywall Kompas extension will now be temporarily loaded in Firefox, and you can use it on kompas.id to remove paywalls.
+6. The Bypass Paywall Kompas extension will now be temporarily loaded in Firefox, and you can use it on [kompas.id](https://www.kompas.id/)
+ to remove paywalls.
 
 ## Usage
 
-- Once the extension is installed, visit kompas.id, and the paywall elements should be automatically removed from the page.
+- Once the extension is installed, visit [kompas.id](https://www.kompas.id/)
+, and the paywall elements should be automatically removed from the page.
 
-- Please note that this extension is specifically designed for kompas.id, and it may not work on other websites with different paywall implementations.
+- Please note that this extension is specifically designed for [kompas.id](https://www.kompas.id/)
+, and it may not work on other websites with different paywall implementations.
 
 ## Contribution
 
