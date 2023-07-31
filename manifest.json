@@ -9,5 +9,9 @@
       "matches": ["https://*.kompas.id/*"],
       "js": ["content_script.js"]
     }
-  ]
+  ],
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  }
 }
